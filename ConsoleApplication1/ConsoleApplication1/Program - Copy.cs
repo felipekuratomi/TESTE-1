@@ -96,3 +96,78 @@ namespace ConsoleApplication1
 
 
 
+
+
+//BASICOS
+//var data = new DateTime(2015, 1, 1, 0, 0, 0);
+//var outradata = data.AddYears(32);
+//Console.WriteLine(outradata);
+//Console.WriteLine(x);
+//Console.WriteLine("Vai tricolor");
+//Console.Read();
+
+
+
+////FOREACH
+////int[] meuArray = new int[10];
+
+//var meuArray = new int[10];
+//meuArray[0]= 1;
+
+////var meuArray = new List<string>
+////{
+////    "a","b","c"
+////};
+//foreach (var item in meuArray)
+//{
+//    Console.WriteLine(item);
+//}
+
+////ARRAY DE MULTIPLAS DIMENSOES
+//var array = new int[2, 2, 2];
+////ARRAY DE ARRAYS
+//int[][] jaggedArray = new int[3];
+
+//// DO =! WHILE (executa pelo menos uma vez)
+
+
+//MANIPULACAO DE TEXTO
+//string teste = "qwerqwer";
+//var watch = new Stopwatch();
+//watch.Start();
+//for (int i = 0; i < 100; i++)
+//{
+//    teste= teste +"asdfasdfasdf";
+//}
+//watch.Stop();
+//Console.WriteLine(watch.Elapsed);
+//Console.Read();
+
+//string teste = "qwerqwer";
+//var b = new StringBuilder();
+//var watch = new Stopwatch();
+//watch.Start();
+//for ( int i = 0; i<100000; i ++)
+//{
+//    b.Append("asndfkasd");
+//}
+//teste = b.ToString();
+//watch.Stop();
+//Console.WriteLine(watch.Elapsed);
+//Console.Read();
+
+// SWITCH
+//switch (x)
+//{
+//    case 1:
+//        Console.WriteLine("X 1");
+//        break;
+
+//    case 2:
+//        Console.WriteLine("X 2");
+//        break;
+
+//    default:
+//        Console.WriteLine("asdfas");
+//        break;
+//}
