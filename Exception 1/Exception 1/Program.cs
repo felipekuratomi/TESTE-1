@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Text;
@@ -22,19 +23,25 @@ namespace Exception_1
 
             catch (DivideByZeroException ex)
             {
-                Console.WriteLine(ex.Message);
-                Console.Read();
+               // Console.WriteLine(ex.Message);
+                Debug.WriteLine(ex.Message);
             }
             catch (FileNotFoundException)
             {
-                Console.WriteLine("FIle nao encontrado ");
-                Console.Read();
+                Debug.WriteLine("FIle nao encontrado ");
+
             }
             catch (Exception ex)
             {
-                Console.WriteLine(ex.Message);
-                Console.Read();
+                Debug.WriteLine(ex.Message);
+
             }
+
+            finally 
+            {  
+               // Console.Read();
+            }
+
 
         }
         static int Adicionar(int x, int y)
