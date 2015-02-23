@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\TESTE-1\CollectionsGeneric\CollectionsGeneric\bin\Debug\CollectionsGeneric.exe.config
+C:\Users\Admin\Desktop\TESTE-1\CollectionsGeneric\CollectionsGeneric\bin\Debug\CollectionsGeneric.exe
+C:\Users\Admin\Desktop\TESTE-1\CollectionsGeneric\CollectionsGeneric\bin\Debug\CollectionsGeneric.pdb
+C:\Users\Admin\Desktop\TESTE-1\CollectionsGeneric\CollectionsGeneric\obj\Debug\CollectionsGeneric.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TESTE-1\CollectionsGeneric\CollectionsGeneric\obj\Debug\CollectionsGeneric.exe
+C:\Users\Admin\Desktop\TESTE-1\CollectionsGeneric\CollectionsGeneric\obj\Debug\CollectionsGeneric.pdb

@@ -23,6 +23,12 @@ namespace Heranca__Demo
     }
     abstract class Animal
     {
+        public Animal
+        public Animal(string nome, int idade)
+        {
+            _idade = idade;
+            Nome = nome;
+        }
         public abstract void Falar();
 
         public string Nome { get; set; }
@@ -48,6 +54,12 @@ namespace Heranca__Demo
 
     sealed class Cachorro : Animal
     {
+        public Cachorro()
+            : base ("Cachorro")
+        {
+
+        }
+
         public override void Andar()
         {
             base.Andar();
@@ -62,6 +74,12 @@ namespace Heranca__Demo
     }
     sealed class Gato : Animal
     {
+         public Gato()
+            : base ("Gato")
+        {
+
+        }
+
         public override void Andar()
         {
             Console.WriteLine("Gato andando");
