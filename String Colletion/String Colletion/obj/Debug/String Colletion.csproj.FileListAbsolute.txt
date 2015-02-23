@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\TESTE-1\String Colletion\String Colletion\bin\Debug\String Colletion.exe.config
+C:\Users\Admin\Desktop\TESTE-1\String Colletion\String Colletion\bin\Debug\String Colletion.exe
+C:\Users\Admin\Desktop\TESTE-1\String Colletion\String Colletion\bin\Debug\String Colletion.pdb
+C:\Users\Admin\Desktop\TESTE-1\String Colletion\String Colletion\obj\Debug\String Colletion.exe
+C:\Users\Admin\Desktop\TESTE-1\String Colletion\String Colletion\obj\Debug\String Colletion.pdb

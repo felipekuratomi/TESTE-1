@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\TESTE-1\DelegateAndEvent\DelegateAndEvent\bin\Debug\DelegateAndEvent.exe.config
+C:\Users\Admin\Desktop\TESTE-1\DelegateAndEvent\DelegateAndEvent\obj\Debug\DelegateAndEvent.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TESTE-1\DelegateAndEvent\DelegateAndEvent\bin\Debug\DelegateAndEvent.exe
+C:\Users\Admin\Desktop\TESTE-1\DelegateAndEvent\DelegateAndEvent\bin\Debug\DelegateAndEvent.pdb
+C:\Users\Admin\Desktop\TESTE-1\DelegateAndEvent\DelegateAndEvent\obj\Debug\DelegateAndEvent.exe
+C:\Users\Admin\Desktop\TESTE-1\DelegateAndEvent\DelegateAndEvent\obj\Debug\DelegateAndEvent.pdb

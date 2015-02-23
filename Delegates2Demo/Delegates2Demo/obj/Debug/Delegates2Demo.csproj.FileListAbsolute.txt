@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\TESTE-1\Delegates2Demo\Delegates2Demo\bin\Debug\Delegates2Demo.exe.config
+C:\Users\Admin\Desktop\TESTE-1\Delegates2Demo\Delegates2Demo\bin\Debug\Delegates2Demo.exe
+C:\Users\Admin\Desktop\TESTE-1\Delegates2Demo\Delegates2Demo\bin\Debug\Delegates2Demo.pdb
+C:\Users\Admin\Desktop\TESTE-1\Delegates2Demo\Delegates2Demo\obj\Debug\Delegates2Demo.exe
+C:\Users\Admin\Desktop\TESTE-1\Delegates2Demo\Delegates2Demo\obj\Debug\Delegates2Demo.pdb
+C:\Users\Admin\Desktop\TESTE-1\Delegates2Demo\Delegates2Demo\obj\Debug\Delegates2Demo.csprojResolveAssemblyReference.cache

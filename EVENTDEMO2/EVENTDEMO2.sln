@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EVENTDEMO2", "EVENTDEMO2\EVENTDEMO2.csproj", "{DBCB23D1-43F6-44FB-928B-3132CA3012CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBCB23D1-43F6-44FB-928B-3132CA3012CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBCB23D1-43F6-44FB-928B-3132CA3012CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBCB23D1-43F6-44FB-928B-3132CA3012CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBCB23D1-43F6-44FB-928B-3132CA3012CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\TESTE-1\EventDemo 2\EventDemo 2\bin\Debug\EventDemo 2.exe.config
+C:\Users\Admin\Desktop\TESTE-1\EventDemo 2\EventDemo 2\bin\Debug\EventDemo 2.exe
+C:\Users\Admin\Desktop\TESTE-1\EventDemo 2\EventDemo 2\bin\Debug\EventDemo 2.pdb
+C:\Users\Admin\Desktop\TESTE-1\EventDemo 2\EventDemo 2\obj\Debug\EventDemo 2.exe
+C:\Users\Admin\Desktop\TESTE-1\EventDemo 2\EventDemo 2\obj\Debug\EventDemo 2.pdb

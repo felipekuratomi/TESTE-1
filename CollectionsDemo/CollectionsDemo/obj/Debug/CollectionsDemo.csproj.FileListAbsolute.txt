@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\TESTE-1\CollectionsDemo\CollectionsDemo\bin\Debug\CollectionsDemo.exe.config
+C:\Users\Admin\Desktop\TESTE-1\CollectionsDemo\CollectionsDemo\bin\Debug\CollectionsDemo.exe
+C:\Users\Admin\Desktop\TESTE-1\CollectionsDemo\CollectionsDemo\bin\Debug\CollectionsDemo.pdb
+C:\Users\Admin\Desktop\TESTE-1\CollectionsDemo\CollectionsDemo\obj\Debug\CollectionsDemo.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TESTE-1\CollectionsDemo\CollectionsDemo\obj\Debug\CollectionsDemo.exe
+C:\Users\Admin\Desktop\TESTE-1\CollectionsDemo\CollectionsDemo\obj\Debug\CollectionsDemo.pdb
