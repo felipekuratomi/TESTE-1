@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\TESTE-1\StackPanelDemo\StackPanelDemo\bin\Debug\StackPanelDemo.exe.config
+C:\Users\Admin\Desktop\TESTE-1\StackPanelDemo\StackPanelDemo\bin\Debug\StackPanelDemo.exe
+C:\Users\Admin\Desktop\TESTE-1\StackPanelDemo\StackPanelDemo\bin\Debug\StackPanelDemo.pdb
+C:\Users\Admin\Desktop\TESTE-1\StackPanelDemo\StackPanelDemo\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\TESTE-1\StackPanelDemo\StackPanelDemo\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\TESTE-1\StackPanelDemo\StackPanelDemo\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\TESTE-1\StackPanelDemo\StackPanelDemo\obj\Debug\StackPanelDemo_MarkupCompile.cache
+C:\Users\Admin\Desktop\TESTE-1\StackPanelDemo\StackPanelDemo\obj\Debug\StackPanelDemo.g.resources
+C:\Users\Admin\Desktop\TESTE-1\StackPanelDemo\StackPanelDemo\obj\Debug\StackPanelDemo.Properties.Resources.resources
+C:\Users\Admin\Desktop\TESTE-1\StackPanelDemo\StackPanelDemo\obj\Debug\StackPanelDemo.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\TESTE-1\StackPanelDemo\StackPanelDemo\obj\Debug\StackPanelDemo.exe
+C:\Users\Admin\Desktop\TESTE-1\StackPanelDemo\StackPanelDemo\obj\Debug\StackPanelDemo.pdb
+C:\Users\Admin\Desktop\TESTE-1\StackPanelDemo\StackPanelDemo\obj\Debug\StackPanelDemo.csprojResolveAssemblyReference.cache

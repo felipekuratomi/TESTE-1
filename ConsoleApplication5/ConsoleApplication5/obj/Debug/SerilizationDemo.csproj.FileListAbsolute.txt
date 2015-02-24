@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\TESTE-1\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\Admin\Desktop\TESTE-1\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Users\Admin\Desktop\TESTE-1\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Users\Admin\Desktop\TESTE-1\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\Admin\Desktop\TESTE-1\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
