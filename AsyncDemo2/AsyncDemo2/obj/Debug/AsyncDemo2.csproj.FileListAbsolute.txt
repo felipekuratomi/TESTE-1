@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\TESTE-1\AsyncDemo2\AsyncDemo2\bin\Debug\AsyncDemo2.exe.config
+C:\Users\Admin\Desktop\TESTE-1\AsyncDemo2\AsyncDemo2\obj\Debug\AsyncDemo2.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TESTE-1\AsyncDemo2\AsyncDemo2\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\TESTE-1\AsyncDemo2\AsyncDemo2\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\TESTE-1\AsyncDemo2\AsyncDemo2\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\TESTE-1\AsyncDemo2\AsyncDemo2\obj\Debug\AsyncDemo2_MarkupCompile.cache
+C:\Users\Admin\Desktop\TESTE-1\AsyncDemo2\AsyncDemo2\obj\Debug\AsyncDemo2.g.resources
+C:\Users\Admin\Desktop\TESTE-1\AsyncDemo2\AsyncDemo2\obj\Debug\AsyncDemo2.Properties.Resources.resources
+C:\Users\Admin\Desktop\TESTE-1\AsyncDemo2\AsyncDemo2\obj\Debug\AsyncDemo2.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\TESTE-1\AsyncDemo2\AsyncDemo2\bin\Debug\AsyncDemo2.exe
+C:\Users\Admin\Desktop\TESTE-1\AsyncDemo2\AsyncDemo2\bin\Debug\AsyncDemo2.pdb
+C:\Users\Admin\Desktop\TESTE-1\AsyncDemo2\AsyncDemo2\obj\Debug\AsyncDemo2.exe
+C:\Users\Admin\Desktop\TESTE-1\AsyncDemo2\AsyncDemo2\obj\Debug\AsyncDemo2.pdb
