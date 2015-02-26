@@ -1,0 +1,9 @@
+E:\Mod01\Labfiles\Starter\Exercise 1\School\bin\Debug\School.exe.config
+E:\Mod01\Labfiles\Starter\Exercise 1\School\obj\Debug\School.csprojResolveAssemblyReference.cache
+E:\Mod01\Labfiles\Starter\Exercise 1\School\obj\Debug\StudentForm.baml
+E:\Mod01\Labfiles\Starter\Exercise 1\School\obj\Debug\MainWindow.g.cs
+E:\Mod01\Labfiles\Starter\Exercise 1\School\obj\Debug\StudentForm.g.cs
+E:\Mod01\Labfiles\Starter\Exercise 1\School\obj\Debug\App.g.cs
+E:\Mod01\Labfiles\Starter\Exercise 1\School\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Mod01\Labfiles\Starter\Exercise 1\School\obj\Debug\School_MarkupCompile.cache
+E:\Mod01\Labfiles\Starter\Exercise 1\School\obj\Debug\School_MarkupCompile.lref
